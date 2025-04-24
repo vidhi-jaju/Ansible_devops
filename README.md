@@ -1,1 +1,2 @@
 # Ansible_devops
+Ansible Docker SSH Demo is a DevOps automation setup where multiple Docker containers act as remote Ubuntu servers with SSH access. Ansible uses SSH key-based authentication to manage and configure these containers by running playbooks. This project demonstrates automated package installation, file management, and infrastructure orchestration using Ansible over Dockerized servers.
